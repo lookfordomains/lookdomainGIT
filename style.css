@@ -1,3 +1,10 @@
+*{
+    margin: 0
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
 body{
     font-family:sans-serif;
     font-size: 15px
@@ -6,14 +13,18 @@ body{
 h1{
  color:#ad002f;
     font-size: 40px;
+    margin-bottom: 20px
     
     }
 h2{
  color:#556b2f;
     font-size: 20px;
+    margin-bottom: 10px
        
 }
 
 .main-text{
+    margin-bottom: 20px;
     text-align: justify
+    
 }
